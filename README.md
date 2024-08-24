@@ -2,8 +2,8 @@
 - 🧔 My name is Markus, but you can call me... Markus.
 - 🏙️ I am from the beautiful city of Ingolstadt.
 - 💻 I'm a software engineer mainly focussing on full stack development with frontends consisting of Angular, TypeScript, HTML and CSS as well as backends written in Java or Kotlin, mostly supported by Spring.
-- 🔭 I’m currently working on a project to display blood sugar values from type 1 diabetes patients on Fitbit smartwatches as well as an addon manager (similar to pacman) for World of Warcraft addons specifically for linux users.
-- 🌱 I’m currently learning more TypeScript, Go and I also want to get started with Zig.
+- 🔭 I’m currently working on a project to display blood sugar values from type 1 diabetes patients on Fitbit smartwatches (Techstack: Typescript, React) as well as an addon manager (similar to pacman) for World of Warcraft addons specifically for linux users (Techstack: Go).
+- 🌱 I’m currently learning more TypeScript, Go and I also want to get started with Rust and/or Zig.
 - ⚡ Fun fact: I've got three cats and I love them all equally 🐱🐱🐱
 
 ### Tech Stack
